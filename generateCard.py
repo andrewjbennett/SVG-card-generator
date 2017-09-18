@@ -76,21 +76,23 @@ def getColorFill(color):
     return card_color_fill % colorCode[color]
 
 def getCardCenterNum(number, color):
-    print card_centers[number]
-    return card_center_outer % (colorCode[color], card_centers[number])
+    card_center = card_centers[number]
+    if number > 9:
+        card_center = newLetters3[number-10]
+    return card_center_outer % (colorCode[color], card_center)
 
 def getCardTopLeftNum(number):
     thing = card_topleft_outer % topleft[number]
     if number > 9:
         return matrix_transform_upper + card_topleft_outer % \
-    card_centers[number] + matrix_close_group
+        newLetters3[number-10] + matrix_close_group
     else:
         return thing
 
 def getCardBottomRightNum(number):
     if number > 9:
-        return matrix_transform_lower + card_topleft_outer % \
-        card_centers[number] + matrix_close_group
+        return matrix_transform_lower + card_bottomright_outer % \
+        newLetters3[number-10] + matrix_close_group
     return card_bottomright_outer % bottomright[number]
 
 if __name__ == "__main__":
