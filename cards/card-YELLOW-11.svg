@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg6613"
+   viewBox="0 0 62 92"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs6615" />
+  <metadata
+     id="metadata6618">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+
+    <g
+       id="purple-zero">
+<!--       transform="matrix(4,0,0,4,2.8571413,-1321.3722)"> -->
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+         id="card-border"
+         y="0"
+         x="0"
+         ry="10"
+         rx="10"
+         height="90"
+         width="60" />
+
+      <rect
+         card-fill="rect3757-5-07-1-97"
+         style="fill:#ffaa00;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="card-purple-fill"
+         y="5"
+         x="5"
+         ry="5"
+         rx="5"
+         height="80"
+         width="50" />
+      
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="card-whitecenter"
+         d="m 45,20 c -22.09139,0 -40,17.90861 -40,40 0,5.52285 4.47715,10 10,10 22.09139,0 40,-17.90861 40,-40 0,-5.52285 -4.47715,-10 -10,-10 z" />
+
+      <path
+         style="fill:#ffaa00;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="card-center-zero"
+         d="m22.377 29.945h6.3178q5.1144 0 7.446 2.1235t2.3316 5.6092q0 2.2036-0.82733 3.8864-0.78973 1.6828-2.2188 2.444 1.8051 1.0016 2.8581 2.6844 1.053 1.6427 1.053 4.888 0 8.4138-12.448 8.4138h-4.5127v-30.049zm6.6563 12.22q2.1812 0 3.2341-0.76125 1.0906-0.76125 1.0906-3.1251 0-2.0834-1.241-2.8447-1.2034-0.80132-3.3093-0.80132h-1.0906v7.5324h1.3162zm-0.11282 13.142q2.7076 0 3.911-1.4023 1.2034-1.4424 1.2034-3.1251 0-2.6043-1.3162-3.4457-1.2786-0.88145-3.6102-0.88145h-1.2034v8.8546h1.0154z" />
+
+<g id="mat" transform="matrix(0.5,0,0,0.5,-2.2830149,-7.5007809)">
+
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="card-topleft-zero"
+         d="m22.377 29.945h6.3178q5.1144 0 7.446 2.1235t2.3316 5.6092q0 2.2036-0.82733 3.8864-0.78973 1.6828-2.2188 2.444 1.8051 1.0016 2.8581 2.6844 1.053 1.6427 1.053 4.888 0 8.4138-12.448 8.4138h-4.5127v-30.049zm6.6563 12.22q2.1812 0 3.2341-0.76125 1.0906-0.76125 1.0906-3.1251 0-2.0834-1.241-2.8447-1.2034-0.80132-3.3093-0.80132h-1.0906v7.5324h1.3162zm-0.11282 13.142q2.7076 0 3.911-1.4023 1.2034-1.4424 1.2034-3.1251 0-2.6043-1.3162-3.4457-1.2786-0.88145-3.6102-0.88145h-1.2034v8.8546h1.0154z" />
+         </g>
+<g id="mat2" transform="matrix(-0.5,0,0,-0.5,61.685933,98.257762)">
+
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="card-topleft-zero"
+         d="m22.377 29.945h6.3178q5.1144 0 7.446 2.1235t2.3316 5.6092q0 2.2036-0.82733 3.8864-0.78973 1.6828-2.2188 2.444 1.8051 1.0016 2.8581 2.6844 1.053 1.6427 1.053 4.888 0 8.4138-12.448 8.4138h-4.5127v-30.049zm6.6563 12.22q2.1812 0 3.2341-0.76125 1.0906-0.76125 1.0906-3.1251 0-2.0834-1.241-2.8447-1.2034-0.80132-3.3093-0.80132h-1.0906v7.5324h1.3162zm-0.11282 13.142q2.7076 0 3.911-1.4023 1.2034-1.4424 1.2034-3.1251 0-2.6043-1.3162-3.4457-1.2786-0.88145-3.6102-0.88145h-1.2034v8.8546h1.0154z" />
+         </g>
+    </g>
+  </g>
+</svg>
